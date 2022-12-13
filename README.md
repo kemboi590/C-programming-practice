@@ -1,2 +1,1 @@
-# C-programming-practice
-I try to learn more of C programming
+i put my C programming learning into practice
